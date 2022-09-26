@@ -1,1 +1,2 @@
 # odin-recipes
+This simple web page is a demonstration of the use of git commands, it makes use of different html tags such as anchors, image insertion, headers, paragraphs, ordered and unordered lists.
